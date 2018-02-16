@@ -1,0 +1,210 @@
+2018-02-06T07:26:06.757Z - normal: Load ~/.CocosCreator/settings.json
+2018-02-06T07:26:06.761Z - normal: checking language setting...
+2018-02-06T07:26:06.761Z - normal: Language: zh
+2018-02-06T07:26:08.935Z - success: protocol editor-framework registered
+2018-02-06T07:26:08.935Z - success: protocol app registered
+2018-02-06T07:26:08.935Z - success: protocol theme registered
+2018-02-06T07:26:08.935Z - success: protocol packages registered
+2018-02-06T07:26:08.936Z - success: protocol unpack registerred
+2018-02-06T07:26:08.936Z - success: protocol disable-commonjs registerred
+2018-02-06T07:26:09.232Z - normal: connected!
+2018-02-06T07:26:09.236Z - normal: Check project E:\Code\COCOS\start_project
+2018-02-06T07:26:09.255Z - normal: Initializing Cocos2d
+2018-02-06T07:26:12.105Z - normal: Initializing Asset Database
+2018-02-06T07:26:12.160Z - success: protocol uuid registerred
+2018-02-06T07:26:12.161Z - success: protocol db registerred
+2018-02-06T07:26:12.161Z - success: protocol thumbnail registerred
+2018-02-06T07:26:12.161Z - normal: Loading editor/builtin packages
+2018-02-06T07:26:12.182Z - success: anysdk loaded
+2018-02-06T07:26:12.301Z - success: assets loaded
+2018-02-06T07:26:12.303Z - success: builder loaded
+2018-02-06T07:26:12.307Z - success: cocos-analytics loaded
+2018-02-06T07:26:12.310Z - success: console loaded
+2018-02-06T07:26:12.313Z - success: hierarchy loaded
+2018-02-06T07:26:12.315Z - success: inspector loaded
+2018-02-06T07:26:12.317Z - success: keystore loaded
+2018-02-06T07:26:12.319Z - success: node-library loaded
+2018-02-06T07:26:12.321Z - success: package-asset loaded
+2018-02-06T07:26:12.323Z - success: preferences loaded
+2018-02-06T07:26:12.325Z - success: project-exporter loaded
+2018-02-06T07:26:12.346Z - success: project-importer loaded
+2018-02-06T07:26:12.347Z - success: project-settings loaded
+2018-02-06T07:26:12.349Z - success: ui-kit loaded
+2018-02-06T07:26:12.350Z - success: ui-grid loaded
+2018-02-06T07:26:12.353Z - success: scene loaded
+2018-02-06T07:26:12.354Z - success: sprite-editor loaded
+2018-02-06T07:26:12.357Z - success: store loaded
+2018-02-06T07:26:12.360Z - success: timeline loaded
+2018-02-06T07:26:12.360Z - normal: Loading builtin packages
+2018-02-06T07:26:12.362Z - success: asset-db-debugger loaded
+2018-02-06T07:26:12.363Z - success: code-editor loaded
+2018-02-06T07:26:12.364Z - success: color-picker loaded
+2018-02-06T07:26:12.365Z - success: package-manager loaded
+2018-02-06T07:26:12.368Z - success: sdkbox loaded
+2018-02-06T07:26:12.372Z - success: tester loaded
+2018-02-06T07:26:12.374Z - success: ui-kit-preview-extra loaded
+2018-02-06T07:26:12.375Z - success: ui-kit-preview loaded
+2018-02-06T07:26:12.376Z - success: ui-tree loaded
+2018-02-06T07:26:15.203Z - normal: Initializing project E:\Code\COCOS\start_project
+2018-02-06T07:26:15.217Z - normal: Loading packages
+2018-02-06T07:26:15.221Z - normal: Watching packages
+2018-02-06T07:26:15.232Z - normal: Run Application
+2018-02-06T07:26:19.889Z - success: preview server running at http://localhost:7457
+2018-02-06T07:26:49.065Z - normal: 1.8.1
+2018-02-06T07:52:33.876Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-02-06T07:52:33.877Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-02-06T07:52:33.878Z - normal: Simulator: FRAME SCALE = 1.00
+2018-02-06T07:52:33.994Z - normal: Simulator: Ready for GLSL
+2018-02-06T07:52:33.995Z - normal: Simulator: Ready for OpenGL 2.0
+2018-02-06T07:52:34.039Z - normal: Simulator: 
+2018-02-06T07:52:34.039Z - normal: Simulator: {
+2018-02-06T07:52:34.040Z - normal: Simulator: 	gl.version: 4.3.0 - Build 20.19.15.4624
+2018-02-06T07:52:34.040Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-02-06T07:52:34.040Z - normal: Simulator: 	cocos2d.x.version: 1.7.0
+2018-02-06T07:52:34.040Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-02-06T07:52:34.040Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-02-06T07:52:34.040Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-02-06T07:52:34.040Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-02-06T07:52:34.041Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-02-06T07:52:34.042Z - normal: Simulator: 	gl.vendor: Intel
+2018-02-06T07:52:34.049Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4600
+2018-02-06T07:52:34.051Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-02-06T07:52:34.051Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-02-06T07:52:34.051Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-02-06T07:52:34.052Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-02-06T07:52:34.052Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-02-06T07:52:34.052Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-02-06T07:52:34.052Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-02-06T07:52:34.052Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-02-06T07:52:34.052Z - normal: Simulator: }
+2018-02-06T07:52:34.052Z - normal: Simulator: 
+2018-02-06T07:52:34.053Z - normal: Simulator: 
+2018-02-06T07:52:34.053Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-02-06T07:52:34.058Z - normal: Simulator: Project Config:
+2018-02-06T07:52:34.059Z - normal: Simulator:     project dir: G:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-02-06T07:52:34.059Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-02-06T07:52:34.059Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-02-06T07:52:34.059Z - normal: Simulator:     frame size: 960 x 640
+2018-02-06T07:52:34.059Z - normal: Simulator:     frame scale: 1.00
+2018-02-06T07:52:34.060Z - normal: Simulator:     show console: NO
+2018-02-06T07:52:34.060Z - normal: Simulator:     write debug log: NO ()
+2018-02-06T07:52:34.060Z - normal: Simulator:     listen: 
+2018-02-06T07:52:34.061Z - normal: Simulator:     debugger: none
+2018-02-06T07:52:34.062Z - normal: Simulator:     add searching path:
+2018-02-06T07:52:34.064Z - normal: Simulator: 
+2018-02-06T07:52:34.065Z - normal: Simulator: 
+2018-02-06T07:52:34.070Z - normal: Simulator: 
+2018-02-06T07:52:34.071Z - normal: Simulator: ------------------------------------------------
+2018-02-06T07:52:34.072Z - normal: Simulator: LOAD Js FILE: main.js
+2018-02-06T07:52:34.072Z - normal: Simulator: ------------------------------------------------
+2018-02-06T07:52:34.073Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-02-06T07:52:34.449Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-02-06T07:52:34.450Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-02-06T07:52:34.450Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-02-06T07:52:34.548Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.7.0
+2018-02-06T07:52:34.740Z - normal: Simulator: iShow!
+2018-02-06T07:52:34.988Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.5919999999999845ms
+2018-02-06T07:52:34.999Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.46299999999996544ms
+2018-02-06T07:52:34.999Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.21199999999998909ms
+2018-02-06T07:52:34.999Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.010999999999967258ms
+2018-02-06T07:52:35.020Z - normal: Simulator: D/jswrapper (125): JS: Activate: 18.204000000000065ms
+2018-02-06T07:52:35.021Z - normal: Simulator: cocos2d: QuadCommand: resizing index size from [-1] to [2560]
+2018-02-06T07:52:55.860Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 00c69acd-c247-4047-8d53-ac6af7e5e530: 12.77900000000227ms
+2018-02-06T07:52:55.861Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.4530000000013388ms
+2018-02-06T07:52:55.861Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.0459999999984575ms
+2018-02-06T07:52:55.866Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 5.901999999998225ms
+2018-02-06T07:52:55.866Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.010000000002037268ms
+2018-02-06T07:52:55.882Z - normal: Simulator: D/jswrapper (125): JS: Activate: 5.716000000000349ms
+2018-02-06T07:53:03.152Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 00c69acd-c247-4047-8d53-ac6af7e5e530: 16.833999999998923ms
+2018-02-06T07:53:03.153Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 2.47099999999773ms
+2018-02-06T07:53:03.156Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.059000000001105946ms
+2018-02-06T07:53:03.178Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 5.880000000001019ms
+2018-02-06T07:53:03.179Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.013000000002648449ms
+2018-02-06T07:53:03.179Z - normal: Simulator: D/jswrapper (125): JS: Activate: 8.993000000002212ms
+2018-02-06T07:53:04.956Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-02-06T07:53:04.957Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 147, all objects: 436
+2018-02-06T07:53:04.994Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 63, all objects: 352
+2018-02-06T07:53:04.994Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 63, all objects: 350
+2018-02-06T07:53:05.033Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 63, all objects: 350
+2018-02-06T07:53:05.034Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-02-06T07:53:05.067Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-02-06T07:53:05.078Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-02-06T08:51:54.946Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-02-06T08:51:54.947Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-02-06T08:51:54.947Z - normal: Simulator: FRAME SCALE = 1.00
+2018-02-06T08:51:55.062Z - normal: Simulator: Ready for GLSL
+2018-02-06T08:51:55.062Z - normal: Simulator: Ready for OpenGL 2.0
+2018-02-06T08:51:55.066Z - normal: Simulator: 
+2018-02-06T08:51:55.067Z - normal: Simulator: {
+2018-02-06T08:51:55.067Z - normal: Simulator: 	gl.version: 4.3.0 - Build 20.19.15.4624
+2018-02-06T08:51:55.067Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-02-06T08:51:55.067Z - normal: Simulator: 	cocos2d.x.version: 1.7.0
+2018-02-06T08:51:55.067Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-02-06T08:51:55.067Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-02-06T08:51:55.067Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-02-06T08:51:55.067Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-02-06T08:51:55.068Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-02-06T08:51:55.068Z - normal: Simulator: 	gl.vendor: Intel
+2018-02-06T08:51:55.068Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4600
+2018-02-06T08:51:55.068Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-02-06T08:51:55.068Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-02-06T08:51:55.068Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-02-06T08:51:55.068Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-02-06T08:51:55.069Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-02-06T08:51:55.069Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-02-06T08:51:55.069Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-02-06T08:51:55.069Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-02-06T08:51:55.070Z - normal: Simulator: }
+2018-02-06T08:51:55.070Z - normal: Simulator: 
+2018-02-06T08:51:55.070Z - normal: Simulator: 
+2018-02-06T08:51:55.070Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-02-06T08:51:55.085Z - normal: Simulator: Project Config:
+2018-02-06T08:51:55.086Z - normal: Simulator:     project dir: G:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-02-06T08:51:55.086Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-02-06T08:51:55.088Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-02-06T08:51:55.090Z - normal: Simulator:     frame size: 960 x 640
+2018-02-06T08:51:55.090Z - normal: Simulator:     frame scale: 1.00
+2018-02-06T08:51:55.091Z - normal: Simulator:     show console: NO
+2018-02-06T08:51:55.091Z - normal: Simulator:     write debug log: NO ()
+2018-02-06T08:51:55.091Z - normal: Simulator:     listen: 
+2018-02-06T08:51:55.092Z - normal: Simulator:     debugger: none
+2018-02-06T08:51:55.092Z - normal: Simulator:     add searching path:
+2018-02-06T08:51:55.092Z - normal: Simulator: 
+2018-02-06T08:51:55.093Z - normal: Simulator: 
+2018-02-06T08:51:55.093Z - normal: Simulator: 
+2018-02-06T08:51:55.093Z - normal: Simulator: ------------------------------------------------
+2018-02-06T08:51:55.094Z - normal: Simulator: LOAD Js FILE: main.js
+2018-02-06T08:51:55.094Z - normal: Simulator: ------------------------------------------------
+2018-02-06T08:51:55.095Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-02-06T08:51:55.491Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-02-06T08:51:55.491Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-02-06T08:51:55.491Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-02-06T08:51:55.592Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.7.0
+2018-02-06T08:51:55.778Z - normal: Simulator: iShow!
+2018-02-06T08:51:56.024Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.5529999999999973ms
+2018-02-06T08:51:56.027Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.20500000000004093ms
+2018-02-06T08:51:56.028Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.10099999999999909ms
+2018-02-06T08:51:56.028Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.008000000000038199ms
+2018-02-06T08:51:56.048Z - normal: Simulator: D/jswrapper (125): JS: Activate: 20.55200000000002ms
+2018-02-06T08:51:56.061Z - normal: Simulator: cocos2d: QuadCommand: resizing index size from [-1] to [2560]
+2018-02-06T08:52:06.344Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 00c69acd-c247-4047-8d53-ac6af7e5e530: 15.852999999999156ms
+2018-02-06T08:52:06.344Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.0169999999998254ms
+2018-02-06T08:52:06.345Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.019999999998617568ms
+2018-02-06T08:52:06.349Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 3.6639999999988504ms
+2018-02-06T08:52:06.349Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.006999999999607098ms
+2018-02-06T08:52:06.355Z - normal: Simulator: D/jswrapper (125): JS: Activate: 3.986000000000786ms
+2018-02-06T08:52:12.892Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 00c69acd-c247-4047-8d53-ac6af7e5e530: 17.166999999997643ms
+2018-02-06T08:52:12.893Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.1940000000031432ms
+2018-02-06T08:52:12.894Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.027000000001862645ms
+2018-02-06T08:52:12.896Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 2.50800000000163ms
+2018-02-06T08:52:12.896Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.005000000001018634ms
+2018-02-06T08:52:12.908Z - normal: Simulator: D/jswrapper (125): JS: Activate: 4.836999999999534ms
+2018-02-06T08:52:22.902Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-02-06T08:52:22.902Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 134, all objects: 423
+2018-02-06T08:52:22.940Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 63, all objects: 352
+2018-02-06T08:52:22.940Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 63, all objects: 350
+2018-02-06T08:52:22.974Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 63, all objects: 350
+2018-02-06T08:52:22.975Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-02-06T08:52:23.018Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-02-06T08:52:23.019Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-02-07T13:49:26.913Z - info: shutdown preview server
